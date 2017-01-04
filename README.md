@@ -7,7 +7,7 @@ In this version you have several project types as Magento 1, Magento 2, Laravel,
 
 Copy the setup-project.sh to any directory you prefer. For example: **~/.scripts/**.
 You should open the script with a text editor and modify the project paths or you can leave it as it.
-If you have a different user/group for your apache server, you can reoplace the following line with your user and group:
+If you have a different user/group for your apache server, you can replace the following line with your user and group:
 
     sudo chown -R $USER:$USER $projectPath
   
